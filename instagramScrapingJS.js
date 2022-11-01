@@ -1,4 +1,4 @@
-const username = "pndy.chrg";
+const username = "ENTERYOURUSERNAMEHERE";
 
 /**
  * Initialized like this so typescript can infer the type
